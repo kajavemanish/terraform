@@ -1,4 +1,5 @@
 # terraform
 
-terrafrom init
+terrafrom init.
+
 terrafrom apply
